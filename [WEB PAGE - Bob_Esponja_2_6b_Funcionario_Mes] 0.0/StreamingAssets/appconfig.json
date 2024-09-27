@@ -1,0 +1,8 @@
+{
+  "timeout": 90,
+  "indexWebcam": 1,
+  "displaysResultadosAtivos": 1,
+  "tempoParaSairIdleEIniciarContagem": 5,
+  "tempoParaLerAFraseInstrucaoContagem": 3,
+  "tempoNaTelaResultado": 10 
+}
