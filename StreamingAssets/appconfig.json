@@ -4,5 +4,6 @@
   "displaysResultadosAtivos": 1,
   "tempoParaSairIdleEIniciarContagem": 5,
   "tempoParaLerAFraseInstrucaoContagem": 3,
-  "tempoNaTelaResultado": 10 
+  "tempoNaTelaResultado": 10,
+  "serverUrl": "ws://localhost:8766"
 }
