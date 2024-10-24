@@ -5,5 +5,6 @@
   "tempoParaSairIdleEIniciarContagem": 5,
   "tempoParaLerAFraseInstrucaoContagem": 3,
   "tempoNaTelaResultado": 10,
-  "serverUrl": "ws://localhost:8766"
+  "ip": "192.168.100.142",
+  "port": 8080
 }
