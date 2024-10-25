@@ -2,9 +2,10 @@
   "timeout": 90,
   "indexWebcam": 1,
   "displaysResultadosAtivos": 1,
-  "tempoParaSairIdleEIniciarContagem": 5,
-  "tempoParaLerAFraseInstrucaoContagem": 3,
-  "tempoNaTelaResultado": 10,
+  "tempoParaSairIdleEIniciarContagem": 2,
+  "tempoParaLerAFraseInstrucao": 3,
+  "TempoSemEstarDetectandoRosto": 2,
+  "tempoNaTelaResultado": 5,
   "ip": "192.168.100.142",
   "port": 8080
 }
